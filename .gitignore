@@ -1,0 +1,60 @@
+# ============================================================================
+# DATA FILES
+# ============================================================================
+# Ignorar datos dentro de las carpetas
+data/raw/*
+data/processed/*
+
+# Pero NO ignorar los archivos .gitkeep (para mantener la estructura de carpetas)
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# ============================================================================
+# ENVIRONMENT & SECRETS
+# ============================================================================
+# Variables de entorno (contienen credenciales sensibles)
+.env
+.env.local
+.env.*.local
+
+# ============================================================================
+# LOGS
+# ============================================================================
+logs/
+*.log
+
+# ============================================================================
+# PYTHON
+# ============================================================================
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# ============================================================================
+# OS
+# ============================================================================
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
