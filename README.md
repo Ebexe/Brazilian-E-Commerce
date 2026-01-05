@@ -443,6 +443,17 @@ review_answer_timestamp
 4. Seleccionar tablas del star schema
 5. Las relaciones se detectan automáticamente
 
+### 🖼️ Capturas del Dashboard
+
+![Portada y KPIs](PowerBI/screenshot/01_portada.png)
+*Portada, KPIs globales y navegación principal.*
+![Visión general](PowerBI/screenshot/02_vision_general.png)
+*Visión general de ventas, clientes y temporalidad.*
+![Logística y entregas](PowerBI/screenshot/03_logistica.png)
+*Tiempos de entrega, puntualidad y métricas de logística.*
+![Productos y categorías](PowerBI/screenshot/04_productos.png)
+*Rendimiento por producto y categoría con mix de ventas.*
+
 ### 📊 KPIs Sugeridos
 
 ```dax
