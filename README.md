@@ -137,7 +137,7 @@ graph LR
 ### 1️⃣ Clonar el Repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/brazilian-ecommerce-analysis.git
+git clone https://github.com/Ebexe/Brazilian-E-Commerce.git
 cd brazilian-ecommerce-analysis
 ```
 
@@ -630,11 +630,10 @@ Este proyecto está bajo la Licencia MIT. Ver archivo `LICENSE` para más detall
 
 **Eberth Rojas Barbaran**
 
-- LinkedIn: (www.linkedin.com/in/eberth-gianfranco)
-- GitHub: (https://github.com/Ebexe)
+- LinkedIn: [eberth-gianfranco](https://www.linkedin.com/in/eberth-gianfranco)
+- GitHub: [@Ebexe](https://github.com/Ebexe)
 - Email: eberthrojas98@gmail.com
 
----
 
 ## 🙏 Agradecimientos
 
